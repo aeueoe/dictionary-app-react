@@ -31,7 +31,7 @@ function App() {
         <small>
           This project was coded by Julia Atamas and is{" "}
           <a
-            href="https://github.com/aeueoe/weather_app_react"
+            href="https://github.com/aeueoe/dictionary_react"
             target="_blank"
             rel="noopener noreferrer"
           >
