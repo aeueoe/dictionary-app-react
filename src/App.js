@@ -39,7 +39,7 @@ function App() {
           </a>{" "}
           and{" "}
           <a
-            href="https://main--unrivaled-speculoos-631d40.netlify.app/"
+            href="https://incredible-beignet-4893a0.netlify.app/"
             target="_blank"
             rel="noopener noreferrer"
           >
