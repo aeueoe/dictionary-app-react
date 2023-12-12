@@ -1,0 +1,15 @@
+.Results .row {
+  background: #ffffff;
+  padding: 20px;
+  border: 3px solid #00128a;
+  border-radius: 3rem;
+  margin: 20px 0;
+  align-items: center;
+}
+
+.Results h2 {
+  color: #00128a;
+  font-size: 2rem;
+  font-weight: bold;
+  line-height: 1.5;
+}

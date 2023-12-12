@@ -1,0 +1,30 @@
+body {
+  background: #eef1f5;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.App {
+  max-width: 800px;
+  margin: 0 auto;
+}
+.App h1 {
+  color: #00128a;
+  text-align: center;
+  letter-spacing: -1px;
+  font-size: 2rem;
+  font-weight: bold;
+  line-height: 1.2;
+  margin-bottom: 2rem;
+}
+
+.App a {
+  color: #00128a;
+  text-decoration: none;
+}
+.App a:hover {
+  text-decoration: underline;
+}
+.App footer {
+  margin: 1rem 0;
+  text-align: center;
+}

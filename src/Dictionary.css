@@ -1,0 +1,10 @@
+.Dictionary form {
+  margin: 0 2rem 3rem 2rem;
+}
+
+.Dictionary input {
+  font-size: 1rem;
+  padding: 10px;
+  color: #54545d;
+  width: 100%;
+}
